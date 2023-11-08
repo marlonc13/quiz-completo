@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(231, 198, 198);
+    background-image: linear-gradient(to right, rgb(124, 12, 124), rgb(175, 66, 128), rgb(180, 52, 127));        
+}
+
+.question {
+    margin-bottom: 30px;
+}
+
+.answers label {
+    display: block;
+    margin-top: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
